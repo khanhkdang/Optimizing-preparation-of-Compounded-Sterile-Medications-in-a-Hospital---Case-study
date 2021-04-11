@@ -29,7 +29,7 @@ Predictive Model (Excel File)
 
 Saving cost of waste disposal: Estimation of savings from waste disposal
 
-Case - Medication Waste Reduction in an In-Hospital Pharmacy, Part A & Part B: Details case study
+Case - Medication Waste Reduction in an In-Hospital Pharmacy, Part A & Part B (pdf): Details case study
 
 Medication Case - Presentation: Slides for presentation
 
