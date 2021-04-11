@@ -1,4 +1,5 @@
 MEDICATION CASE STUDY
+
 The case study focuses on reducing in-hospital waste of compounded medication.
 One of the functions performed by in-hospital pharmacies is the custom compounding of medication both for inpatients and outpatients. 
 The compounded medication are stable for a short time, they are manufactured in powder or concentrate form and need to be custom compouned prior to being administered to a patient.
