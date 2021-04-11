@@ -14,3 +14,7 @@ Stakeholders: Patients, Pharmacist, Health Care Provider, Technicians
 
 
 FILES
+
+Case - Hospital Waste Order Data: Raw data includes drug ID, date of order, date of cancellation, number of doses per hour, cost per doses, cancellation
+
+
