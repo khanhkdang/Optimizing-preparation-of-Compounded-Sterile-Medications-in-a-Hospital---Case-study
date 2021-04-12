@@ -1,4 +1,4 @@
-MEDICATION CASE STUDY
+# MEDICATION CASE STUDY
 
 The case study focuses on reducing in-hospital waste of compounded medication.
 
@@ -17,7 +17,7 @@ Analysis of time of dose, cancellation, medication confirmation and drug ID
 Action Plans: New Batches Model, Medical Waste Disposal, Smart Cart Dispensing, CPOE system, Label Genneration, Training Staff.
 
 
-FILES
+# FILES
 
 Code (Jupier Notebook): Python code for getting insights from data
 
