@@ -1,6 +1,6 @@
 # MEDICATION CASE STUDY
 
-The case study focuses on reducing in-hospital waste of Compounded Sterile Medication.
+The case study focuses on reducing in-hospital waste of Compounded Sterile Medication (CSP).
 
 One of the functions performed by in-hospital pharmacies is the custom compounding of medication both for in patients and out patients.
 
